@@ -1,3 +1,7 @@
+---
+[![](https://visitcount.itsvg.in/api?id=tobigfioroni&icon=9&color=7)](https://visitcount.itsvg.in)
+
+
 # 💫 About Me:
 - 👋 HI, My name is **Tobias Gabriel,**<br><br>- 👨‍🎓 I am currently **studying at university,**<br><br>- ⚡ I'm **18 years old,**<br><br>- 🌱 I’m currently learning **JavaScript,**<br><br>- ❤️ I love **videogames and Pizza.**<br><br>- 👨‍💻 My portfolio: [tobigfioroni.github.io](https://tobigfioroni.github.io)<br><br>- 📫 How to reach me **tobigfioroni@gmail.com**
 
@@ -14,11 +18,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tobigfioroni&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=tobigfioroni)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=tobigfioroni&icon=9&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

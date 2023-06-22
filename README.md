@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 HI, My name is **Tobias Gabriel,**<br><br>- 👨‍🎓 I am currently **studying at university,**<br><br>- ⚡ I'm **18 years old,**<br><br>- 🌱 I’m currently learning **JavaScript,**<br><br>- ❤️ I love **videogames and Pizza.**<br><br>- 👨‍💻 My portfolio: [tobigfioroni.github.io](tobigfioroni.github.io)<br><br>- 📫 How to reach me **tobigfioroni@gmail.com**
+- 👋 HI, My name is **Tobias Gabriel,**<br><br>- 👨‍🎓 I am currently **studying at university,**<br><br>- ⚡ I'm **18 years old,**<br><br>- 🌱 I’m currently learning **JavaScript,**<br><br>- ❤️ I love **videogames and Pizza.**<br><br>- 👨‍💻 My portfolio: [tobigfioroni.github.io](https://tobigfioroni.github.io)<br><br>- 📫 How to reach me **tobigfioroni@gmail.com**
 
 
 ## 🌐 Socials:

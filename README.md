@@ -1,6 +1,6 @@
-[![Visits Count](https://badges.pufler.dev/visits/pujux/badge-it)]([https://badges.pufler.dev](https://github.com/tobigfioroni))
-
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tobigfioroni&color=blueviolet"/> 
+</p>
 
 <h2 align="center">👋 Hi there!</h2>
 <br>

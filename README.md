@@ -4,7 +4,7 @@
 
 <h2 align="center">👋 Hi there!</h2>
 
-<p align="right">
+<p align="center">
   <img src="sprites/bee-mc.webp" alt="bee_mc">
 </p>
 

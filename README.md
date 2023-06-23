@@ -1,10 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=tobigfioroni&icon=9&color=7)](https://visitcount.itsvg.in)
 
 
-<h2 align="center">💫 About Me :</h2>
+<h2 align="center">👋 Hi there!</h2>
 <br>
-<p align="center">
-<br>- 👋 HI, my name is **Tobias Gabriel,**<br><br>- 👨‍🎓 Currently **studying at university,**<br><br>- ⚡ I'm **18 years old,**<br><br>- ❤️ I love **videogames and Pizza.**<br><br>- 📫 How to reach me **tobigfioroni@gmail.com**
+<p align="left">
+<br>- 💫 HI, my name is **Tobias Gabriel,**<br><br>- 👨‍🎓 Currently **studying at university,**<br><br>- ⚡ I'm **18 years old,**<br><br>- ❤️ I love **videogames and pizza.**<br><br>- 📫 How to reach me **tobigfioroni@gmail.com**
 </p>
 <br>
 <h2 align="center">👨‍💻 Skills :</h2>

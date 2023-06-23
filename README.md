@@ -1,4 +1,5 @@
-[![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
+[![Visits Count](https://badges.pufler.dev/visits/pujux/badge-it)]([https://badges.pufler.dev](https://github.com/tobigfioroni))
+
 
 
 <h2 align="center">👋 Hi there!</h2>

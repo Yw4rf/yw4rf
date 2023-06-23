@@ -8,7 +8,7 @@
 </p>
 <br><br>
 <h2 align="center">👨‍💻 Skills :</h2>
-<br><br>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
-<br><br>
+<br>
 <h2 align="center">🌐 Networks :</h2>
 <br><br>
 <p align="center">
@@ -34,7 +34,7 @@
 </p>
 <br><br>
 <h2 align="center">📊 GitHub Stats :</h2>
-<br><br>
+<br>
 <p align="center">
 
 | GitHub Stats | Streak Stats | Top Languages |

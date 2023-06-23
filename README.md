@@ -6,6 +6,19 @@
 <br>- 👋 HI, my name is **Tobias Gabriel,**<br><br>- 👨‍🎓 Currently **studying at university,**<br><br>- ⚡ I'm **18 years old,**<br><br>- ❤️ I love **videogames and Pizza.**<br><br>- 📫 How to reach me **tobigfioroni@gmail.com**
 <br><br>
 </p>
+<br><br>
+<h2 align="center">👨‍💻 Skills :</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</div>
+<br><br>
 <h2 align="center">🌐 Networls :</h2>
 
 <p align="center">

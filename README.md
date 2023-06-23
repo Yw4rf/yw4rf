@@ -20,7 +20,7 @@
 </div>
 <br>
 <h2 align="center">🌐 Networks :</h2>
-<br><br>
+<br>
 <p align="center">
   <a href="https://instagram.com/tobigfioroni">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
-<br><br>
+<br>
 <h2 align="center">📊 GitHub Stats :</h2>
 <br>
 <p align="center">

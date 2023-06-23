@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=tobigfioroni&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{tobigfioroni}/count.svg)
 
 <h2 align="center">👋 Hi there!</h2>
 <br>

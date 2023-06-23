@@ -5,7 +5,7 @@
 <h2 align="center">👋 Hi there!</h2>
 <br>
 <p align="center">
-  <img src="sprites/junimo-stardew-valley.gif" alt="junimo-stardew-valley">
+  <img src="sprites/chicken-stardew-valley.webp" alt="junimo-stardew-valley">
 </p>
 <br>
 

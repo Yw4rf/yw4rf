@@ -36,8 +36,6 @@
 |--------------|--------------|---------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobigfioroni&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tobigfioroni&theme=dracula&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tobigfioroni&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
-
-<h2 align="center">🏆 GitHub thropies :</h2>
 ![](https://github-profile-trophy.vercel.app/?username=tobigfioroni&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <h2 align="center">📌Pinned repositories :</h2> 

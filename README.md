@@ -1,5 +1,6 @@
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=tobigfioroni&icon=9&color=7)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tobigfioroni&label=Profile%20Views&color=12&icon=2&pretty=false" />
+</a>
 
 <h2 align="center">👋 Hi there!</h2>
 <br>

@@ -2,13 +2,13 @@
 
 
 <h2 align="center">💫 About Me :</h2>
+<br><br>
 <p align="center">
 <br>- 👋 HI, my name is **Tobias Gabriel,**<br><br>- 👨‍🎓 Currently **studying at university,**<br><br>- ⚡ I'm **18 years old,**<br><br>- ❤️ I love **videogames and Pizza.**<br><br>- 📫 How to reach me **tobigfioroni@gmail.com**
-<br><br>
 </p>
 
 <h2 align="center">👨‍💻 Skills :</h2>
-
+<br><br>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 <br><br>
-<h2 align="center">🌐 Networls :</h2>
-
+<h2 align="center">🌐 Networks :</h2>
+<br><br>
 <p align="center">
   <a href="https://instagram.com/tobigfioroni">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
@@ -34,6 +34,7 @@
 </p>
 <br><br>
 <h2 align="center">📊 GitHub Stats :</h2>
+<br><br>
 <p align="center">
 
 | GitHub Stats | Streak Stats | Top Languages |

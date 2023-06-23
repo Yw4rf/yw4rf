@@ -1,4 +1,5 @@
-![Visitor Count](https://profile-counter.glitch.me/{tobigfioroni}/count.svg)
+[![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
+
 
 <h2 align="center">👋 Hi there!</h2>
 <br>

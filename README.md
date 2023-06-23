@@ -2,9 +2,10 @@
 
 
 <h2 align="center">💫 About Me :</h2>
+<p align="center">
 <br>- 👋 HI, my name is **Tobias Gabriel,**<br><br>- 👨‍🎓 Currently **studying at university,**<br><br>- ⚡ I'm **18 years old,**<br><br>- ❤️ I love **videogames and Pizza.**<br><br>- 📫 How to reach me **tobigfioroni@gmail.com**
 <br><br>
-
+</p>
 <h2 align="center">🌐 Networls :</h2>
 
 <p align="center">

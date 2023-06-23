@@ -3,11 +3,11 @@
 </p>
 
 <h2 align="center">👋 Hi there!</h2>
-<br>
-<p align="left">
-<br>- 💫 HI, my name is **Tobias Gabriel,**<br><br>- 👨‍🎓 Currently **studying at university,**<br><br>- ⚡ I'm **18 years old,**<br><br>- ❤️ I love **videogames and pizza.**<br><br>- 📫 How to reach me **tobigfioroni@gmail.com**
+
+<p align="right">
+  <img src="sprites/bee-mc.webp" alt="bee_mc">
 </p>
-<br>
+
 <h2 align="center">👨‍💻 Skills :</h2>
 <br>
 <div align="center">
@@ -20,6 +20,16 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 <br>
+<h2 align="center">📊 GitHub Stats :</h2>
+<br>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=tobigfioroni&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=tobigfioroni&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=tobigfioroni&theme=material-palenight&hide_border=true&background=FFFFFF00">
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=tobigfioroni&theme=dracula"/>
+</p>
 <h2 align="center">🌐 Networks :</h2>
 <br>
 <p align="center">
@@ -34,17 +44,5 @@
   </a>
 </p>
 <br>
-<h2 align="center">📊 GitHub Stats :</h2>
-<br>
-<p align="center">
-
-| GitHub Stats | Streak Stats | Top Languages |
-|--------------|--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobigfioroni&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tobigfioroni&theme=dracula&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tobigfioroni&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-
-![](https://github-profile-trophy.vercel.app/?username=tobigfioroni&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-</p>
-
 <h2 align="center">📌Pinned repositories :</h2> 
 <br>

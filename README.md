@@ -1,14 +1,10 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=tobigfioroni&color=blueviolet"/> 
-</p>
-
-<h2 align="center">👋 Hi there!</h2>
-<br>
-<p align="center">
+    <div align="center">
   <img src="sprites/chicken-stardew-valley.webp" alt="junimo-stardew-valley">
+</div>
 </p>
 <br>
-
 <h2 align="center">👨‍💻 Skills :</h2>
 <br>
 <div align="center">

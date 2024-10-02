@@ -5,13 +5,13 @@
 </div>
 </p>
 <br>
-🌱About me
-Computer Networks Student
-Cybersecurity and Pentesting Enthusiast
-Lang: Spanish, English
-Contact:
-Email: echo 'dG9iaWZnYWJyaWVsQGdtYWlsLmNvbQ==' | base64 -d
-Telegram: t.me/yw4rf
+# 🌱About me
+ - Computer Networks Student
+ - Cybersecurity and Pentesting Enthusiast
+ - Lang: Spanish, English
+ - Contact:
+   - Email: echo 'dG9iaWZnYWJyaWVsQGdtYWlsLmNvbQ==' | base64 -d
+   - Telegram: t.me/yw4rf
 <br>
 <h2 align="center">📌Pinned repositories :</h2> 
 <br>

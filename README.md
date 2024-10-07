@@ -3,7 +3,7 @@
 - Computer Networks Student
 - Python, Bash, JavaScript
 - Cybersecurity and Pentesting Enthusiast 
-- Lang: Español, English and i wanna learn +++
+- Lang: Español, English
 - Contact:
   - Email: `echo 'dG9iaWZnYWJyaWVsQGdtYWlsLmNvbQ==' | base64 -d`
   - Telegram: [t.me/yw4rf](https://t.me/yw4rf)

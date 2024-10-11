@@ -7,4 +7,4 @@
 - Contact:
   - Email: `echo 'dG9iaWZnYWJyaWVsQGdtYWlsLmNvbQ==' | base64 -d`
   - Telegram: [t.me/yw4rf](https://t.me/yw4rf)
-  - Linkedin: [in/yw4rf](https://linkedin.com/yw4rf)
+  - Linkedin: [in/yw4rf](https://linkedin.com/in/yw4rf)

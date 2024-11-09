@@ -75,7 +75,9 @@
 
 <h3 align="left">🏴 CTF</h3>
 
-[![yw4rf's tryhackme stats](https://raw.githubusercontent.com/yw4rf/yw4rf/master/assets/thm_propic.png)][tryhackme]
+[yw4rf's tryhackme stats](https://raw.githubusercontent.com/yw4rf/yw4rf/master/assets/thm_propic.png)
+[![yw4rf's tryhackme stats](https://raw.githubusercontent.com/yw4rf/yw4rf/master/assets/thm_propic.png)](https://tryhackme.com/p/Yw4rf)
+
 
 <br>
 

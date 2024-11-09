@@ -14,19 +14,20 @@
 
 ###
 
-<div class="centered-list">
-  <ul>
-    <li>🍑 I'm currently studying computer networks</li>
-    <li>🍊 I'm passionate about cybersecurity</li>
-    <li>🍅 I'm learning more about this field every day and documenting it on my blog.</li>
-    <li>🍉 Contact:
-      <ul>
-        <li>Email: <code>echo 'dG9iaWZnYWJyaWVsQGdtYWlsLmNvbQ==' | base64 -d</code></li>
-        <li>Telegram: <a href="https://t.me/yw4rf" target="_blank">t.me/yw4rf</a></li>
-      </ul>
-    </li>
-  </ul>
+<div style="text-align: center;">
+
+- 🍑 I'm currently studying computer networks
+- 🍊 I'm passionate about cybersecurity
+- 🍅 I'm learning more about this field every day and documenting it on my [website](https://yw4rf.vercel.app).
+- 🍉 Contact:
+  - Email: `echo 'dG9iaWZnYWJyaWVsQGdtYWlsLmNvbQ==' | base64 -d`
+  - Telegram: [t.me/yw4rf](https://t.me/yw4rf)
+   
 </div>
+
+<br>
+
+<h3 align="left">🧠 Skills</h3>
 
 ###
 
@@ -72,34 +73,22 @@
 
 ###
 
- <style>
-    /* Estilo general para centrar el contenido */
-    .centered-list {
-      text-align: center;
-    }
+<h3 align="left">🏴 CTF</h3>
 
-    /* Estilo para las listas sin puntos ni márgenes */
-    .centered-list ul {
-      list-style-type: none;
-      padding: 0;
-      margin: 0;
-    }
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 
-    /* Estilo opcional para hacer más bonito el código en la lista */
-    code {
-      font-family: monospace;
-      background-color: #f4f4f4;
-      padding: 0.2em;
-      border-radius: 3px;
-    }
+<br>
 
-    /* Estilo para los enlaces */
-    a {
-      color: #1a73e8;
-      text-decoration: none;
-    }
+<h3 class="left">📖 Latest Posts</h3>
 
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+<div style="text-align: center;">
+
+- [Whiterose - TryHackMe](https://yw4rf.vercel.app/posts/tryhackme/whiterose/)
+- [StellarJWT - DockerLabs](https://yw4rf.vercel.app/posts/dockerlabs/stellarjwt/)
+- [Verdejo - DockerLabs](https://yw4rf.vercel.app/posts/dockerlabs/verdejo/)
+- [Chemistry - HackTheBox](https://yw4rf.vercel.app/posts/hackthebox/chemistry/)
+- [TwoMillion - HackTheBox](https://yw4rf.vercel.app/posts/hackthebox/twomillion/)
+   
+</div>
+
+<br>

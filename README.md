@@ -14,11 +14,7 @@
 
 ###
 
-<h2 align="center">💡 Skills</h2>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="34" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="34" alt="css3 logo"  />
@@ -54,40 +50,8 @@
 
 ###
 
-<h2 align="center">📊 Stats</h2>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yw4rf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
-
-###
-
-<h2 align="center">🌐 Contact</h2>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/yw4rf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:tobifgabriel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/yw4rf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="twitter logo"  />
-  </a>
-  <a href="https://instagram.com/yw4rf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/yw4rf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="center">⚑ CTF</h2>
 
 ###

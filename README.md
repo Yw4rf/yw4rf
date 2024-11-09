@@ -14,12 +14,14 @@
 
 ###
 
+<div align="center">
 - 🍑 I'm currently studying computer networks
 - 🍊 I'm passionate about cybersecurity 
 - 🍅 I'm learning more about this field every day and documenting it on my blog.
 - 🍉 Contact:
   - Email: `echo 'dG9iaWZnYWJyaWVsQGdtYWlsLmNvbQ==' | base64 -d`
   - Telegram: [t.me/yw4rf](https://t.me/yw4rf)
+</div>
 
 ###
 

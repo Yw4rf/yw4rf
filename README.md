@@ -27,6 +27,20 @@
 
 <br>
 
+<h3 class="left">📖 Latest Posts</h3>
+
+<div style="text-align: center;">
+
+- [Whiterose - TryHackMe](https://yw4rf.vercel.app/posts/tryhackme/whiterose/)
+- [StellarJWT - DockerLabs](https://yw4rf.vercel.app/posts/dockerlabs/stellarjwt/)
+- [Verdejo - DockerLabs](https://yw4rf.vercel.app/posts/dockerlabs/verdejo/)
+- [Chemistry - HackTheBox](https://yw4rf.vercel.app/posts/hackthebox/chemistry/)
+- [TwoMillion - HackTheBox](https://yw4rf.vercel.app/posts/hackthebox/twomillion/)
+   
+</div>
+
+<br>
+
 <h3 align="left">🧠 Skills</h3>
 
 ###
@@ -78,18 +92,4 @@
 [![yw4rf's tryhackme stats](https://raw.githubusercontent.com/yw4rf/yw4rf/master/assets/thm_propic.png)](https://tryhackme.com/p/Yw4rf)
 
 
-<br>
-
-<h3 class="left">📖 Latest Posts</h3>
-
-<div style="text-align: center;">
-
-- [Whiterose - TryHackMe](https://yw4rf.vercel.app/posts/tryhackme/whiterose/)
-- [StellarJWT - DockerLabs](https://yw4rf.vercel.app/posts/dockerlabs/stellarjwt/)
-- [Verdejo - DockerLabs](https://yw4rf.vercel.app/posts/dockerlabs/verdejo/)
-- [Chemistry - HackTheBox](https://yw4rf.vercel.app/posts/hackthebox/chemistry/)
-- [TwoMillion - HackTheBox](https://yw4rf.vercel.app/posts/hackthebox/twomillion/)
-   
-</div>
-
-<br>
+<br><br>

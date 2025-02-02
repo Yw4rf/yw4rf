@@ -1,13 +1,5 @@
 <h1 align="center">Hi, i'm トビアス・F Aka Yw4rf !</h1>
 
-###
-
-<div align="center">
-  <img height="400" src="https://yw4rf.vercel.app/_astro/100768.CHv_80vi_bHFmA.webp"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Yw4rf/count.svg?"  />
 </div>

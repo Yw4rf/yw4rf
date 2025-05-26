@@ -2,10 +2,10 @@
 
 <div style="text-align: center;">
   
-- 💻 I'm currently studying computer networks (UNO)  
-- 🔒 I'm passionate about cybersecurity  
-- 📖 I'm learning more about this field every day and documenting it on my website [yw4rf.verecel.app](https://yw4rf.vercel.app/)  
-- 📬 Contact:
+- 💻 Actualmente estudiando Redes Informáticas
+- 🔒 Apasionado de la Ciberseguridad
+- 📖 Mi blog [yw4rf.verecel.app](https://yw4rf.vercel.app/)  
+- 📬 Contacto:
   - ✉️ Email: `echo 'dG9iaWZnYWJyaWVsQGdtYWlsLmNvbQ==' | base64 -d`
   - 📡 Telegram: [t.me/yw4rf](https://t.me/yw4rf)
    

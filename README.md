@@ -1,4 +1,4 @@
-<h1>Hola, soy Tobi aka Yw4rf</h1>
+<h1>Hi, i'm Tobi aka Yw4rf</h1>
 
 <div style="text-align: center;">
   

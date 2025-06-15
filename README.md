@@ -2,12 +2,14 @@
 
 <div style="text-align: center;">
   
-- 💻 Actualmente estudiando Redes Informáticas
-- 🔒 Apasionado de la Ciberseguridad
-- 📖 Mi blog [yw4rf.verecel.app](https://yw4rf.vercel.app/)  
-- 📬 Contacto:
-  - ✉️ Email: `echo 'dG9iaWZnYWJyaWVsQGdtYWlsLmNvbQ==' | base64 -d`
-  - 📡 Telegram: [t.me/yw4rf](https://t.me/yw4rf)
+- 🌐 Student of Computer Networks and Systems Administration
+- 🔐 Passionate about Cybersecurity and Ethical Hacking
+- 📖 My blog [yw4rf.verecel.app](https://yw4rf.vercel.app/)  
+- 📬 Contact:
+  - ✉️ Email: `echo 'eXc0cmZAcHJvdG9ubWFpbC5jb20K' | base64 -d`
+  - 📬 Telegram: [t.me/yw4rf](https://t.me/yw4rf)
+  - 💼 Linkedin: [in/Yw4rf](https://linkedin.com/in/Yw4rf)
+  - 🐦 X: [x.com/Yw4rf](https://x.com/Yw4rf)
    
 </div>
 

@@ -15,4 +15,4 @@
 
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Yw4rf.png" width="300" />
 
-[![yw4rf's hackthebox stats](http://www.hackthebox.eu/badge/image/2035837)](https://app.hackthebox.com/profile/2035837)
+[![yw4rf's hackthebox stats](httwp://www.hackthebox.eu/badge/image/2035837)](https://app.hackthebox.com/profile/2035837)
